@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with Blockcahin Research and Development
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: [twitter]([url](https://twitter.com/meowwdev))
+- 📫 How to reach me: [twitter- @meowwdev](https://twitter.com/meowwdev)
 - ⚡ Fun fact: Pickachu use Thunderbolt
 <img src="https://github-readme-stats.vercel.app/api?username=meowwbuidler&show_icons=true&theme=radical">
