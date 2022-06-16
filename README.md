@@ -7,4 +7,4 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [twitter]([url](https://twitter.com/meowwdev))
 - ⚡ Fun fact: Pickachu use Thunderbolt
-<img src="https://github-readme-stats.vercel.app/api?username=meowwbuidler&show_icons=true&theme=radical>
+<img src="https://github-readme-stats.vercel.app/api?username=meowwbuidler&show_icons=true&theme=radical">
