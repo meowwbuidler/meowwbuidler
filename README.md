@@ -1,4 +1,3 @@
-<img src="https://hdwallpaperim.com/pokemon-pikachu-3/">
 ### Hola I'm Meoww!! 👋
 
 - 🔭 My goal is to Demistify the dark forest
